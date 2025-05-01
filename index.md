@@ -3,6 +3,8 @@
 
 I am an Electrical engineering student at California State University Fullerton, and I'm expected to graduate in Spring 2028. One of my favorite things about coding is there is no limit in making anything you want.
 
+My github account is: https://github.com/Miguelb657
+
 ## Favorite CPSC 120L Labs
 
 * Lab 8 part 2 :
